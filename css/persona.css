@@ -48,6 +48,8 @@ header nav ul li a {
 }
 .texto p{
 	margin: 4% 0px;
+	color: #979797;
+	font-family: "Nova-regular"
 }
 .container .row img {
 	margin-bottom: 2%;
@@ -58,20 +60,23 @@ ul li{
 	margin: 20px;
 	
 }
+footer{
+	text-align: center;
+}
 .texto1{
 	color: #606060;
 	font-family:"Nova-regular";
 
+}
+.iconos{
+	margin: auto ;
 }
 .texto2{
 	color: #979797;
 	font-family:"Nova-light";
 
 }
-.centro{
-	text-align: center;
-	background-color: white;
-}
+
 .izquierda{
 	margin-right: 1%;
 }
@@ -80,4 +85,8 @@ ul li{
 }
 .letter{
 	font-size: 14px;
+}
+.centro{
+	text-align: center;
+	background-color: white;
 }
