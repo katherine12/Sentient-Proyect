@@ -1,0 +1,64 @@
+
+@font-face{
+	font-family:Novabold;
+	src: url(../fonts/proximanova/proximanova-bold-webfont.ttf);
+}
+@font-face{
+	font-family:Nova-light;
+	src: url(../fonts/proximanova/proximanova-light-webfont.ttf);
+}
+@font-face{
+	font-family:Nova-regitalic;
+	src: url(../fonts/proximanova/proximanova-regitalic-webfont.ttf);
+}
+@font-face{
+	font-family:Nova-regular;
+	src: url(../fonts/proximanova/proximanova-regular-webfont.ttf);
+}
+
+/* Shortcuts */
+
+.pd-0{
+	padding: 0;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.mg-0{
+	margin: 0;
+}
+.w-100{
+	width: 100%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: rgb(83, 88, 95);
+}
+.text-blue{
+ color: #192951;
+}
+.a-none-decoration{
+	text-decoration: none;
+}
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
